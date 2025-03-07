@@ -265,4 +265,8 @@ Run Command for Report:
 ## Newman Report Summary:
 
 
+![Alt text](Report/Report01.png)
+![Alt text](Report/Report02.png)
+![Alt text](Report/Report03.png)
+![Alt text](Report/Report04.png)
 
